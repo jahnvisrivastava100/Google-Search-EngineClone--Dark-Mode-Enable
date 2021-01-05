@@ -1,6 +1,7 @@
 # Google-Search-EngineClone-Dark-Mode-Enable
 
 <b>This project is all about creating a clone of google search engine.
+Using HTML and CSS only
 With feature to enable dark mode and Light Mode as per requirement
 It allows to switch between simple search and image search</b>
 
